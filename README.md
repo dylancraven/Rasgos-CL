@@ -8,18 +8,17 @@ Rasgos-CL contains 25,174 trait records, including 2 continuous and 21 categoric
 
 ## Data use guidelines and availability  
 
-**RasgosCL_longformat_Version1.csv**: This file provides trait information for each trait-species combination per data source, original trait values, the species name as it appears in the data source, and the ID of the data source.
+**TraitsCL_AggregatedSpp_Version1.csv**: This file includes aggregated trait values at the species level, and includes standardized species names, trait values, trait names, and trait names, as well as the level of agreement across data sources for categorical traits and the number of data sources used to determine the trait value for each trait-species combination. 
 
-**RasgosCL_References.csv**: This file contains the full reference for each data source. source_ID can be linked to the column of the same in "RasgosCL_longformat_Version1.csv".
+**RasgosCL_longformat_Version1.csv**: This file provides trait information for trait each trait-species combination per data source (ID_record), including standardized trait values, trait units, and species names, as well as the original trait values and species names. 
 
-**TraitsCL_AggregatedSpp_Version1.csv**: aggregated trait values at the species level.
+**RasgosCL_References.csv**: This file contains the full reference for each data source. ID_reference can be linked to the column of the same in "RasgosCL_longformat_Version1.csv".
 
-**Chile_spp_names_clean.csv**: Species list used in Rasgos-CL, including original species names, accepted species name, accepted family, taxonID, and taxonomic source.  
+**Chile_spp_names_clean.csv**: This file contains the species list used in Rasgos-CL, and includes standardized species, full names, families, and the taxon ID, name rank and source of the standardized species, and the 
+original species and name.
 
+<img src="Image/Imagotipo_verde_300dpi.png" align="left" alt="" width="400" />
 
-\newpage
-<img src="Image/Imagotipo_verde_300dpi.png" align="left" alt="" width="250" />
-\newpage
 Please contact [Dylan Craven](mailto:dylan.craven@aya.yale.edu) with questions.  
 
 ## Licence  
