@@ -16,10 +16,11 @@ Rasgos-CL contains 25,174 trait records, including 2 continuous and 21 categoric
 
 **Chile_spp_names_clean.csv**: Species list used in Rasgos-CL, including original species names, accepted species name, accepted family, taxonID, and taxonomic source.  
 
-Please contact [Dylan Craven](mailto:dylan.craven@aya.yale.edu) with questions.
-<br><br>
-<img src="Image/Imagotipo_verde_300dpi.png" align="right" alt="" width="150" />
-<br><br>
+
+\newpage
+<img src="Image/Imagotipo_verde_300dpi.png" align="left" alt="" width="250" />
+\newpage
+Please contact [Dylan Craven](mailto:dylan.craven@aya.yale.edu) with questions.  
 
 ## Licence  
  
