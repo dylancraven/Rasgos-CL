@@ -1,6 +1,4 @@
-# Rasgos-CL: a functional trait database of Chilean woody plants <img src="Image/solo_verde33_notext.png" align="right" alt="" width="200" />
-<br><br>
-
+# Rasgos-CL: a functional trait database of Chilean woody plants 
 ### Authors: Elias Alfaro, Valentina Pérez-Tello, Manuel Acevedo, Juan Ovalle, Ricardo Segovia, Dylan Craven
 
 
@@ -19,6 +17,10 @@ Rasgos-CL contains 25,174 trait records, including 2 continuous and 21 categoric
 **Chile_spp_names_clean.csv**: Species list used in Rasgos-CL, including original species names, accepted species name, accepted family, taxonID, and taxonomic source.  
 
 Please contact [Dylan Craven](mailto:dylan.craven@aya.yale.edu) with questions.
+<br><br>
+<img src="Image/Imagotipo_verde_300dpi.png" align="right" alt="" width="150" />
+<br><br>
+
 ## Licence  
  
 This work is licensed under a [Creative Commons Attribution 2.0 Generic License](https://creativecommons.org/licenses/by/2.0/).
