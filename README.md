@@ -19,7 +19,8 @@ original species and name.
 
 <img src="Image/Imagotipo_verde_300dpi.png" align="left" alt="" width="400"/>
 
-**Citation and contact**  
+## Citation and contact 
+
 Data are publicly available but should be referenced by citing the corresponding data paper:
 
 Alfaro, E., Pérez-Tello, V., Acevedo, M., Ovalle, J., Segovia, R., and D. Craven. 2023. Rasgos-CL: a functional trait database of Chilean woody plants. _Global Ecology & Biogeography_, In revision.
