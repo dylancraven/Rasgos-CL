@@ -23,8 +23,7 @@ original species and name.
 
 Data are publicly available but should be referenced by citing the corresponding data paper:
 
-Alfaro, E., Pérez-Tello, V., Acevedo, M., Ovalle, J., Segovia, R., and D. Craven. 2023. Rasgos-CL: a functional trait database of Chilean woody plants. _Global Ecology & Biogeography_, In revision.
-
+Alfaro, E., Pérez-Tello, V., Acevedo, M., Ovalle, J., Segovia, R., & Craven, D. (2023). Rasgos-CL: A functional trait database of Chilean woody plants. _Global Ecology and Biogeography_, 00, 1–13. https://doi.org/10.1111/geb.13755
 
 Please contact [Dylan Craven](mailto:dylan.craven@aya.yale.edu) with questions.  
 
