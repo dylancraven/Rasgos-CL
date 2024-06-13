@@ -4,17 +4,17 @@
 
 The main objective of Rasgos-CL is to make trait data of Chile’s woody flora available for use by national and international scientific communities, decision makers, and practitioners.
 
-Rasgos-CL contains 25,174 trait records, including 2 continuous and 21 categorical traits for 662 woody species. 
+Rasgos-CL contains 26,081 trait records, including 2 continuous and 21 categorical traits for 718 woody species. 
 
 ## Data use guidelines and availability  
 
-**RasgosCL_AggregatedSpp.csv**: This file includes aggregated trait values at the species level, and includes standardized species names, trait values, trait names, and trait names, as well as the level of agreement across data sources for categorical traits and the number of data sources used to determine the trait value for each trait-species combination. 
+**RasgosCL_aggregatedapp.csv**: This file includes aggregated trait values at the species level, and includes standardized species names, trait values, trait names, and trait units, as well as the level of agreement across data sources for categorical traits and the number of data sources used to determine the trait value for each trait-species combination. 
 
 **RasgosCL_longformat.csv**: This file provides trait information for trait each trait-species combination per data source (ID_record), including standardized trait values, trait units, and species names, as well as the original trait values and species names. 
 
-**RasgosCL_References.csv**: This file contains the full reference for each data source. ID_reference can be linked to the column of the same in "RasgosCL_longformat_Version1.csv".
+**RasgosCL_references.csv**: This file contains the full reference for each data source. ID_reference can be linked to the column of the same in "RasgosCL_longformat.csv".
 
-**RasgosCL_spp_names_clean.csv**: This file contains the species list used in Rasgos-CL, and includes standardized species, full names, families, and the taxon ID, name rank and source of the standardized species, and the 
+**RasgosCL_spp_names_clean.csv**: This file contains the species list used in Rasgos-CL, and includes standardized species, names, and families, taxon ID, name rank and source of the standardized species, and the 
 original species and name.
 
 <img src="Image/Imagotipo_verde_300dpi.png" align="left" alt="" width="400"/>
